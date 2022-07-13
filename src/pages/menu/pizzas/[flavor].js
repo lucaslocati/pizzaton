@@ -11,7 +11,7 @@ const Flavor = ({ flavor }) => {
   return (
     <div className="container">
       <Head>
-        <title>Pizzaton - Pizza "{pizza.name}"</title>
+        <title>Pizzaton - Pizza {pizza.name}</title>
       </Head>
       <Header />
 
