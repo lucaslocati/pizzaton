@@ -1,6 +1,6 @@
 import Head from "next/head";
 
-import Header from "../components/Header";
+import Header from "../components/headers";
 import { slogan, address, phone, whatsapp } from "../data/pizzaton.json";
 
 export default function Home() {

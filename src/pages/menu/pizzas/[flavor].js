@@ -1,7 +1,7 @@
 import Head from "next/Head";
 import Image from "next/Image";
 
-import Header from "../../../components/Header";
+import Header from "../../../components/headers";
 
 import { pizzas } from "../../../data/menu.json";
 

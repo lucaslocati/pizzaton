@@ -2,7 +2,7 @@ import Head from "next/Head";
 import Link from "next/Link";
 import Image from "next/Image";
 
-import Header from "../../components/Header";
+import Header from "../../components/headerss";
 import { pizzas } from "../../data/menu.json";
 
 const Menu = () => (
